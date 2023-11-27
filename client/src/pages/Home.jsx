@@ -83,7 +83,7 @@ function Home({ favourites, setFavourites }) {
   return (
     <main>
       <div id="opening-div">
-        <img id="mainImg1" src="../src/assets/unsplash/restaurant4.png" />
+        <img id="mainImg1" src="/assets/unsplash/restaurant4.png" />
         <div className="home-box" id="home">
           <h1>Welcome to Dealio</h1>
           <p>

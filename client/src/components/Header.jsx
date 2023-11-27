@@ -6,7 +6,7 @@ function header() {
   return (
     <header>
       <Link to={`/`}>
-        <img src="../src/assets/DEALIO_nbg.png" />
+        <img src="/assets/DEALIO_nbg.png" />
       </Link>
       <BurgerMenu />
     </header>

@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer>
       <Link to={`/`}>
-        <img src="../src/assets/DEALIO_nbg.png" />
+        <img src="/assets/DEALIO_nbg.png" />
       </Link>
       <div id="linksFooter">
         <div>
