@@ -6,10 +6,7 @@ export default function About() {
       <h1>Meet The Team</h1>
       <div className="video-container">
         <video width="100%" controls>
-          <source
-            src="../src/assets/video/about_us_final.mp4"
-            type="video/mp4"
-          />
+          <source src="/assets/video/about_us_final.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>

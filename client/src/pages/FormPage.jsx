@@ -47,7 +47,7 @@ export default function FormPage() {
           restaurant deals. Trust Dealio to provide all the tools you need.
         </p>
       </div>
-      <img id="form-img" src="../src/assets/unsplash/staff1.png" />
+      <img id="form-img" src="/assets/unsplash/staff1.png" />
       <div className="discount" id="formpagediscount"></div>
 
       {isAuthenticated && <Form deals={deals} setDeals={setDeals} />}

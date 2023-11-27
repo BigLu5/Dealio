@@ -29,7 +29,7 @@ const Favourites = ({ favourites, setFavourites }) => {
       {favourites.length === 0 ? (
         <div>
           <h2>No favourites yet.</h2>
-          <img id="mainImg1" src="../src/assets/unsplash/bar2.png" />
+          <img id="mainImg1" src="assets/unsplash/bar2.png" />
         </div>
       ) : (
         favourites.map((favourite) => {
