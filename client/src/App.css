@@ -369,9 +369,8 @@ textarea {
 }
 
 #form-img {
-  display: flex;
-  max-width: 100vw;
-  padding-block: 30px;
+  width: 100vw;
+  padding-top: 5vh;
 }
 
 .form-text h2 {
